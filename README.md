@@ -8,36 +8,14 @@
 
 # 👋 Hello, World! I'm Rodrigo
 
-**Senior Software Architect** | Full-Stack Technical Lead | DevOps Engineer
+**Senior Software Architect** at [Divinai.AI](https://divinai.ai)
 
-15+ years designing, building, and operating scalable systems across **AI/ML**, **cloud infrastructure**, and **distributed architectures**.
+Hands-on architect with 15+ years building scalable **AI/ML platforms**, **cloud infrastructure**, and **distributed systems**. Currently leading architecture for AI video generation, GPU workloads, and MCP servers across AWS, Azure, GCP, and OCI.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigos0ares-181717?logo=github)](https://github.com/rodrigos0ares)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--castro--soares-0A66C2?logo=linkedin)](https://linkedin.com/in/rodrigo-castro-soares)
 [![Email](https://img.shields.io/badge/Email-rodrigo.m2n%40gmail.com-D44638?logo=gmail)](mailto:rodrigo.m2n@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigos0ares&show_icons=true&theme=transparent&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigos0ares&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rodrigos0ares&theme=react&size=1200x300&hide_border=true&color=58a6ff&bg_color=0d1117&order=3)
 
 </div>
 
@@ -141,7 +119,6 @@
 | 📧 Email | [rodrigo.m2n@gmail.com](mailto:rodrigo.m2n@gmail.com) |
 | 💼 LinkedIn | [rodrigo-castro-soares](https://linkedin.com/in/rodrigo-castro-soares) |
 | 📍 Location | Brasilia, Brazil |
-| 🏢 Current | Wipro |
 
 ---
 
