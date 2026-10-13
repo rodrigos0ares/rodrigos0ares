@@ -1,0 +1,34 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_username: rodrigos0ares
+          output: github-contribution-grid-snake.svg
+          palette: https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake-palette/github-contribution-grid-snake-palette.svg
+          dark:
+            file: github-contribution-grid-snake-dark.svg
+            gif: github-contribution-grid-snake-dark.gif
+          color_snake:
+            svg: color-snake
+            gif: color-snake
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: main
+          branch: gh-pages
+          commit_message: 'chore: update snake contribution graph'
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
